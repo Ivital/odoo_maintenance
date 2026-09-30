@@ -1,0 +1,52 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# * maintenance_timesheet_time_control
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 18.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-09-30 12:22+0000\n"
+"PO-Revision-Date: 2026-09-30 00:00+0000\n"
+"Last-Translator: \n"
+"Language: uk\n"
+"Language-Team: Ukrainian\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+#. module: maintenance_timesheet_time_control
+msgid "Date"
+msgstr "Дата"
+
+#. module: maintenance_timesheet_time_control
+msgid "Helper to quickly switch between timesheet lines"
+msgstr "Допоміжний засіб для швидкого перемикання між рядками обліку часу"
+
+#. module: maintenance_timesheet_time_control
+msgid "Indicate which time control button to show, if any."
+msgstr "Визначає, яку кнопку керування часом показувати, якщо потрібно."
+
+#. module: maintenance_timesheet_time_control
+msgid "Maintenance Request"
+msgstr "Заявка на технічне обслуговування"
+
+#. module: maintenance_timesheet_time_control
+msgid "Resume work"
+msgstr "Продовжити роботу"
+
+#. module: maintenance_timesheet_time_control
+msgid "Show Time Control"
+msgstr "Показувати керування часом"
+
+#. module: maintenance_timesheet_time_control
+msgid "Start work"
+msgstr "Почати роботу"
+
+#. module: maintenance_timesheet_time_control
+msgid "Stop work"
+msgstr "Зупинити роботу"
+

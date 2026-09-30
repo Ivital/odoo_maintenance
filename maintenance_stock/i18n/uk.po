@@ -1,0 +1,137 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# * maintenance_stock
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 18.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-09-30 12:22+0000\n"
+"PO-Revision-Date: 2026-09-30 00:00+0000\n"
+"Last-Translator: \n"
+"Language: uk\n"
+"Language-Team: Ukrainian\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+#. module: maintenance_stock
+msgid "<span class=\"o_stat_text\">Picking list</span>"
+msgstr "<span class=\"o_stat_text\">Список комплектування</span>"
+
+#. module: maintenance_stock
+msgid "<span class=\"o_stat_text\">Product Moves</span>"
+msgstr "<span class=\"o_stat_text\">Переміщення товарів</span>"
+
+#. module: maintenance_stock
+msgid "<span class=\"o_stat_text\">Stock Moves</span>"
+msgstr "<span class=\"o_stat_text\">Складські переміщення</span>"
+
+#. module: maintenance_stock
+msgid "Allow Consumptions"
+msgstr "Дозволити споживання"
+
+#. module: maintenance_stock
+#. odoo-python
+msgid "Consumption"
+msgstr "Споживання"
+
+#. module: maintenance_stock
+msgid "Consumption Location"
+msgstr "Місце споживання"
+
+#. module: maintenance_stock
+msgid "Consumption Type"
+msgstr "Тип споживання"
+
+#. module: maintenance_stock
+#. odoo-python
+msgid "Consumptions"
+msgstr "Споживання"
+
+#. module: maintenance_stock
+msgid "Create a new stock movement"
+msgstr "Створити нове складське переміщення"
+
+#. module: maintenance_stock
+msgid "Default Consumption Warehouse"
+msgstr "Склад споживання за замовчуванням"
+
+#. module: maintenance_stock
+msgid "Equipment"
+msgstr "Обладнання"
+
+#. module: maintenance_stock
+msgid "Maintenance Equipment"
+msgstr "Обладнання"
+
+#. module: maintenance_stock
+msgid "Maintenance Info"
+msgstr "Інформація про технічне обслуговування"
+
+#. module: maintenance_stock
+msgid "Maintenance Request"
+msgstr "Заявка на технічне обслуговування"
+
+#. module: maintenance_stock
+msgid "Maintenance Request consumption"
+msgstr "Споживання за заявкою на технічне обслуговування"
+
+#. module: maintenance_stock
+msgid "Picking list"
+msgstr "Список комплектування"
+
+#. module: maintenance_stock
+msgid "Product Moves"
+msgstr "Переміщення товарів"
+
+#. module: maintenance_stock
+msgid "Product Moves (Stock Move Line)"
+msgstr "Переміщення товарів (рядок складського переміщення)"
+
+#. module: maintenance_stock
+#. odoo-python
+msgid "Sequence consumption"
+msgstr "Послідовність споживання"
+
+#. module: maintenance_stock
+msgid "Stock Move"
+msgstr "Складське переміщення"
+
+#. module: maintenance_stock
+msgid "Stock Moves"
+msgstr "Складські переміщення"
+
+#. module: maintenance_stock
+msgid "There's no product move yet"
+msgstr "Переміщень товару ще немає"
+
+#. module: maintenance_stock
+msgid ""
+"This menu gives you the full traceability of inventory\n"
+"            operations on a specific product. You can filter on the product\n"
+"            to see all the past or future movements for the product."
+msgstr ""
+"Це меню надає повну простежуваність складських\n"
+"            операцій для конкретного товару. Відфільтруйте за товаром,\n"
+"            щоб побачити всі минулі або майбутні переміщення товару."
+
+#. module: maintenance_stock
+msgid "To"
+msgstr "До"
+
+#. module: maintenance_stock
+msgid "Toner"
+msgstr "Тонер"
+
+#. module: maintenance_stock
+msgid "Transfer"
+msgstr "Переміщення"
+
+#. module: maintenance_stock
+msgid "Warehouse"
+msgstr "Склад"
+

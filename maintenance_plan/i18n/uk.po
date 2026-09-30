@@ -1,0 +1,558 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# * maintenance_plan
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 18.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-09-30 12:22+0000\n"
+"PO-Revision-Date: 2026-09-30 00:00+0000\n"
+"Last-Translator: \n"
+"Language: uk\n"
+"Language-Team: Ukrainian\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+#. module: maintenance_plan
+msgid "<strong>Instructions:</strong>"
+msgstr "<strong>Інструкції:</strong>"
+
+#. module: maintenance_plan
+msgid "Action Needed"
+msgstr "Потрібна дія"
+
+#. module: maintenance_plan
+msgid "Active"
+msgstr "Активний"
+
+#. module: maintenance_plan
+msgid "Active Kind"
+msgstr "Активний тип"
+
+#. module: maintenance_plan
+msgid "Activities"
+msgstr "Дії"
+
+#. module: maintenance_plan
+msgid "Activity Exception Decoration"
+msgstr "Оформлення виняткової дії"
+
+#. module: maintenance_plan
+msgid "Activity State"
+msgstr "Стан дії"
+
+#. module: maintenance_plan
+msgid "Activity Type Icon"
+msgstr "Іконка типу дії"
+
+#. module: maintenance_plan
+msgid "Apply on"
+msgstr "Застосовувати до"
+
+#. module: maintenance_plan
+msgid "Archived"
+msgstr "Архівовано"
+
+#. module: maintenance_plan
+msgid "Attachment Count"
+msgstr "Кількість вкладень"
+
+#. module: maintenance_plan
+msgid "Company"
+msgstr "Компанія"
+
+#. module: maintenance_plan
+msgid "Config Settings"
+msgstr "Налаштування конфігурації"
+
+#. module: maintenance_plan
+msgid "Created by"
+msgstr "Створив"
+
+#. module: maintenance_plan
+msgid "Created on"
+msgstr "Дата створення"
+
+#. module: maintenance_plan
+msgid "Current Maintenance"
+msgstr "Поточне технічне обслуговування"
+
+#. module: maintenance_plan
+msgid "Date from which the maintenance will we active"
+msgstr "Дата, з якої технічне обслуговування буде активним"
+
+#. module: maintenance_plan
+msgid "Day(s)"
+msgstr "День(дні)"
+
+#. module: maintenance_plan
+msgid "Description"
+msgstr "Опис"
+
+#. module: maintenance_plan
+msgid "Display Name"
+msgstr "Назва для відображення"
+
+#. module: maintenance_plan
+msgid "Do not notify to follower when creating requests?"
+msgstr "Не сповіщати підписників під час створення заявок?"
+
+#. module: maintenance_plan
+msgid "Duration (hours)"
+msgstr "Тривалість (години)"
+
+#. module: maintenance_plan
+msgid "Equipment"
+msgstr "Обладнання"
+
+#. module: maintenance_plan
+msgid "Followers"
+msgstr "Підписники"
+
+#. module: maintenance_plan
+msgid "Followers (Partners)"
+msgstr "Підписники (контрагенти)"
+
+#. module: maintenance_plan
+msgid "Font awesome icon e.g. fa-tasks"
+msgstr "Іконка Font Awesome, напр. fa-tasks"
+
+#. module: maintenance_plan
+msgid "Frequency"
+msgstr "Частота"
+
+#. module: maintenance_plan
+msgid "Generate With Domain"
+msgstr "Створювати за доменом"
+
+#. module: maintenance_plan
+msgid "Generate requests for current threshold"
+msgstr "Створювати заявки для поточного порога"
+
+#. module: maintenance_plan
+msgid "Google Slide"
+msgstr "Google Презентація"
+
+#. module: maintenance_plan
+msgid "Google Slide Link"
+msgstr "Посилання Google Презентації"
+
+#. module: maintenance_plan
+msgid "Has Message"
+msgstr "Має повідомлення"
+
+#. module: maintenance_plan
+msgid "Hide built-in recurrent settings"
+msgstr "Приховати вбудовані налаштування повторення"
+
+#. module: maintenance_plan
+msgid "ID"
+msgstr "ID"
+
+#. module: maintenance_plan
+msgid "Icon"
+msgstr "Іконка"
+
+#. module: maintenance_plan
+msgid "Icon to indicate an exception activity."
+msgstr "Іконка для позначення виняткової дії."
+
+#. module: maintenance_plan
+msgid "If checked, new messages require your attention."
+msgstr "Якщо позначено, нові повідомлення потребують вашої уваги."
+
+#. module: maintenance_plan
+msgid "If checked, some messages have a delivery error."
+msgstr "Якщо позначено, деякі повідомлення мають помилку доставки."
+
+#. module: maintenance_plan
+msgid "If not clicked, the scheduled action will do it for you."
+msgstr "Якщо не натиснути, запланована дія виконає це автоматично."
+
+#. module: maintenance_plan
+msgid "Inactive"
+msgstr "Неактивний"
+
+#. module: maintenance_plan
+msgid "Instruction"
+msgstr "Інструкція"
+
+#. module: maintenance_plan
+msgid "Instructions"
+msgstr "Інструкції"
+
+#. module: maintenance_plan
+msgid "Interval between each maintenance"
+msgstr "Інтервал між технічними обслуговуваннями"
+
+#. module: maintenance_plan
+msgid "Is Follower"
+msgstr "Є підписником"
+
+#. module: maintenance_plan
+msgid "Kind"
+msgstr "Вид"
+
+#. module: maintenance_plan
+msgid "Last Updated by"
+msgstr "Востаннє оновив"
+
+#. module: maintenance_plan
+msgid "Last Updated on"
+msgstr "Останнє оновлення"
+
+#. module: maintenance_plan
+msgid "Let the event automatically repeat at that interval"
+msgstr "Автоматично повторювати подію з цим інтервалом"
+
+#. module: maintenance_plan
+msgid "Let the event automatically repeat at that interval step"
+msgstr "Автоматично повторювати подію з таким кроком інтервалу"
+
+#. module: maintenance_plan
+#. odoo-python
+msgid "Maintenace Equipment must belong to the equipment's company"
+msgstr "Обладнання технічного обслуговування має належати компанії обладнання"
+
+#. module: maintenance_plan
+msgid "Maintenance"
+msgstr "Технічне обслуговування"
+
+#. module: maintenance_plan
+msgid "Maintenance All Plan Count"
+msgstr "Кількість усіх планів технічного обслуговування"
+
+#. module: maintenance_plan
+msgid "Maintenance Equipment"
+msgstr "Обладнання"
+
+#. module: maintenance_plan
+msgid "Maintenance Kind"
+msgstr "Вид технічного обслуговування"
+
+#. module: maintenance_plan
+msgid "Maintenance Kinds"
+msgstr "Види технічного обслуговування"
+
+#. module: maintenance_plan
+msgid "Maintenance Plan"
+msgstr "План технічного обслуговування"
+
+#. module: maintenance_plan
+msgid "Maintenance Plan Count"
+msgstr "Кількість планів технічного обслуговування"
+
+#. module: maintenance_plan
+msgid "Maintenance Plans"
+msgstr "Плани технічного обслуговування"
+
+#. module: maintenance_plan
+msgid "Maintenance Request"
+msgstr "Заявка на технічне обслуговування"
+
+#. module: maintenance_plan
+msgid "Maintenance Requests"
+msgstr "Заявки на технічне обслуговування"
+
+#. module: maintenance_plan
+msgid "Maintenance Team"
+msgstr "Команда технічного обслуговування"
+
+#. module: maintenance_plan
+msgid "Maintenance Team Required"
+msgstr "Команда технічного обслуговування обов'язкова"
+
+#. module: maintenance_plan
+msgid "Maintenance duration in hours"
+msgstr "Тривалість технічного обслуговування в годинах"
+
+#. module: maintenance_plan
+msgid "Maintenance kind name already exists."
+msgstr "Вид технічного обслуговування з такою назвою вже існує."
+
+#. module: maintenance_plan
+msgid ""
+"Maintenance planning horizon. Only the maintenance requests inside the "
+"horizon will be created."
+msgstr ""
+"Горизонт планування технічного обслуговування. Буде створено лише заявки в "
+"межах горизонту."
+
+#. module: maintenance_plan
+msgid "Maintenance requests"
+msgstr "Заявки на технічне обслуговування"
+
+#. module: maintenance_plan
+msgid "Maintenance: generate preventive maintenance requests"
+msgstr "Технічне обслуговування: створення заявок на профілактичне обслуговування"
+
+#. module: maintenance_plan
+msgid "Message Delivery error"
+msgstr "Помилка доставки повідомлення"
+
+#. module: maintenance_plan
+msgid "Messages"
+msgstr "Повідомлення"
+
+#. module: maintenance_plan
+msgid "Month(s)"
+msgstr "Місяць(місяці)"
+
+#. module: maintenance_plan
+msgid "Monthly"
+msgstr "Щомісяця"
+
+#. module: maintenance_plan
+msgid "My Activity Deadline"
+msgstr "Кінцевий термін моєї дії"
+
+#. module: maintenance_plan
+msgid "Name"
+msgstr "Назва"
+
+#. module: maintenance_plan
+msgid "Next Activity Deadline"
+msgstr "Кінцевий термін наступної дії"
+
+#. module: maintenance_plan
+msgid "Next Activity Summary"
+msgstr "Опис наступної дії"
+
+#. module: maintenance_plan
+msgid "Next Activity Type"
+msgstr "Тип наступної дії"
+
+#. module: maintenance_plan
+msgid "Next Maintenance Date"
+msgstr "Дата наступного технічного обслуговування"
+
+#. module: maintenance_plan
+msgid "Number of Actions"
+msgstr "Кількість дій"
+
+#. module: maintenance_plan
+msgid "Number of errors"
+msgstr "Кількість помилок"
+
+#. module: maintenance_plan
+msgid "Number of messages requiring action"
+msgstr "Кількість повідомлень, що потребують дії"
+
+#. module: maintenance_plan
+msgid "Number of messages with delivery error"
+msgstr "Кількість повідомлень із помилкою доставки"
+
+#. module: maintenance_plan
+msgid "P. Horizon period"
+msgstr "Період горизонту планування"
+
+#. module: maintenance_plan
+msgid "P. Horizon step"
+msgstr "Крок горизонту планування"
+
+#. module: maintenance_plan
+msgid "PDF"
+msgstr "PDF"
+
+#. module: maintenance_plan
+msgid ""
+"Paste the url of your Google Slide. Make sure the access to the document is "
+"public."
+msgstr ""
+"Вставте URL вашої Google Презентації. Переконайтеся, що документ має "
+"публічний доступ."
+
+#. module: maintenance_plan
+msgid "Planning Horizon"
+msgstr "Горизонт планування"
+
+#. module: maintenance_plan
+msgid "Planning Horizon period"
+msgstr "Період горизонту планування"
+
+#. module: maintenance_plan
+msgid "Planning Horizon step"
+msgstr "Крок горизонту планування"
+
+#. module: maintenance_plan
+msgid "Plans"
+msgstr "Плани"
+
+#. module: maintenance_plan
+#. odoo-python
+#, python-format
+msgid "Preventive Maintenance (%(kind)s) - %(description)s"
+msgstr "Профілактичне обслуговування (%(kind)s) - %(description)s"
+
+#. module: maintenance_plan
+#. odoo-python
+#, python-format
+msgid "Preventive Maintenance (%(kind)s) - %(plan)s"
+msgstr "Профілактичне обслуговування (%(kind)s) - %(plan)s"
+
+#. module: maintenance_plan
+msgid "Ratings"
+msgstr "Оцінки"
+
+#. module: maintenance_plan
+msgid "Recurrence"
+msgstr "Повторення"
+
+#. module: maintenance_plan
+msgid "Responsible User"
+msgstr "Відповідальний користувач"
+
+#. module: maintenance_plan
+msgid "Search Equipment"
+msgstr "Пошук обладнання"
+
+#. module: maintenance_plan
+#. odoo-python
+msgid ""
+"Some maintenance plan's company is incompatible with the company of this "
+"equipment."
+msgstr ""
+"Компанія деяких планів технічного обслуговування несумісна з компанією цього"
+" обладнання."
+
+#. module: maintenance_plan
+msgid "Start Date"
+msgstr "Дата початку"
+
+#. module: maintenance_plan
+msgid "Start Maintenance Date"
+msgstr "Дата початку технічного обслуговування"
+
+#. module: maintenance_plan
+msgid ""
+"Status based on activities\n"
+"Overdue: Due date is already passed\n"
+"Today: Activity date is today\n"
+"Planned: Future activities."
+msgstr ""
+"Стан на основі дій\n"
+"Прострочено: термін уже минув\n"
+"Сьогодні: дата дії — сьогодні\n"
+"Заплановано: майбутні дії."
+
+#. module: maintenance_plan
+msgid "Team"
+msgstr "Команда"
+
+#. module: maintenance_plan
+msgid "Text"
+msgstr "Текст"
+
+#. module: maintenance_plan
+#. odoo-python
+#, python-format
+msgid ""
+"The maintenance plan %(kind)s of equipment %(eqpmnt)s has generated a "
+"request which is not done yet. You should either set the request as done, "
+"remove its maintenance kind or delete it first."
+msgstr ""
+"План технічного обслуговування %(kind)s обладнання %(eqpmnt)s створив "
+"заявку, яку ще не виконано. Спочатку позначте заявку виконаною, приберіть її"
+" вид технічного обслуговування або видаліть її."
+
+#. module: maintenance_plan
+msgid ""
+"To avoid conflicts, hide recurrent settings provided by the maintenance "
+"module."
+msgstr ""
+"Щоб уникнути конфліктів, приховати налаштування повторення, надані модулем "
+"технічного обслуговування."
+
+#. module: maintenance_plan
+msgid "Type of the exception activity on record."
+msgstr "Тип виняткової дії для запису."
+
+#. module: maintenance_plan
+msgid "Under Maintenance"
+msgstr "На технічному обслуговуванні"
+
+#. module: maintenance_plan
+#. odoo-python
+#, python-format
+msgid "Unnamed %(kind)s plan (%(eqpmnt)s)"
+msgstr "Безіменний план %(kind)s (%(eqpmnt)s)"
+
+#. module: maintenance_plan
+#. odoo-python
+#, python-format
+msgid "Unnamed %(kind)s plan (%(eqpmt)s)"
+msgstr "Безіменний план %(kind)s (%(eqpmt)s)"
+
+#. module: maintenance_plan
+#. odoo-python
+#, python-format
+msgid "Unnamed %(void)s plan (%(eqpmnt)s)"
+msgstr "Безіменний план %(void)s (%(eqpmnt)s)"
+
+#. module: maintenance_plan
+#. odoo-python
+msgid "Unspecified kind"
+msgstr "Невизначений вид"
+
+#. module: maintenance_plan
+#. odoo-python
+msgid "Unsupported search operator"
+msgstr "Непідтримуваний оператор пошуку"
+
+#. module: maintenance_plan
+msgid "Upload your PDF file."
+msgstr "Завантажте PDF-файл."
+
+#. module: maintenance_plan
+msgid "Website Messages"
+msgstr "Повідомлення вебсайту"
+
+#. module: maintenance_plan
+msgid "Website communication history"
+msgstr "Історія комунікації через вебсайт"
+
+#. module: maintenance_plan
+msgid "Week(s)"
+msgstr "Тиждень(тижні)"
+
+#. module: maintenance_plan
+msgid "Weekly"
+msgstr "Щотижня"
+
+#. module: maintenance_plan
+msgid "Year(s)"
+msgstr "Рік(роки)"
+
+#. module: maintenance_plan
+msgid ""
+"You cannot define multiple times the same maintenance kind on an equipment "
+"maintenance plan."
+msgstr ""
+"Не можна кілька разів визначати той самий вид технічного обслуговування в "
+"плані обладнання."
+
+#. module: maintenance_plan
+#. odoo-python
+#, python-format
+msgid ""
+"You have multiple preventive maintenance requests on equipment %(name)s next"
+" action date (%(date)s). Please leave only one preventive request on the "
+"date of equipment's next action to install the module."
+msgstr ""
+"Для обладнання %(name)s існує кілька заявок на профілактичне обслуговування "
+"з датою наступної дії %(date)s. Щоб установити модуль, залиште лише одну "
+"профілактичну заявку на дату наступної дії обладнання."
+
+#. module: maintenance_plan
+msgid "Your instructions"
+msgstr "Ваші інструкції"
+
+#. module: maintenance_plan
+msgid "e.g. Calibration"
+msgstr "напр. Калібрування"
+

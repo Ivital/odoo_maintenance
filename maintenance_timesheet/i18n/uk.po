@@ -1,0 +1,121 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# * maintenance_timesheet
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 18.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-09-30 12:22+0000\n"
+"PO-Revision-Date: 2026-09-30 00:00+0000\n"
+"Last-Translator: \n"
+"Language: uk\n"
+"Language-Team: Ukrainian\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+#. module: maintenance_timesheet
+msgid ""
+"<span class=\"o_stat_text\">\n"
+"                            Hours\n"
+"                        </span>"
+msgstr ""
+"<span class=\"o_stat_text\">\n"
+"                            Години\n"
+"                        </span>"
+
+#. module: maintenance_timesheet
+msgid "<span class=\"oe_label\">Hours</span>"
+msgstr "<span class=\"oe_label\">Години</span>"
+
+#. module: maintenance_timesheet
+msgid "<span id=\"timesheet_information_title\">Timesheet Entries</span>"
+msgstr "<span id=\"timesheet_information_title\">Записи обліку часу</span>"
+
+#. module: maintenance_timesheet
+msgid "<strong>Timesheet Total Hours:</strong>"
+msgstr "<strong>Загальна кількість годин обліку часу:</strong>"
+
+#. module: maintenance_timesheet
+msgid "<strong>Total</strong>"
+msgstr "<strong>Разом</strong>"
+
+#. module: maintenance_timesheet
+msgid "Analytic Line"
+msgstr "Аналітичний рядок"
+
+#. module: maintenance_timesheet
+#. odoo-python
+msgid "Cannot save or delete a timesheet for a maintenance request already done"
+msgstr ""
+"Неможливо зберегти або видалити облік часу для вже виконаної заявки на "
+"технічне обслуговування"
+
+#. module: maintenance_timesheet
+msgid "Date"
+msgstr "Дата"
+
+#. module: maintenance_timesheet
+msgid "Description"
+msgstr "Опис"
+
+#. module: maintenance_timesheet
+msgid "Duration (Hour(s))"
+msgstr "Тривалість (год.)"
+
+#. module: maintenance_timesheet
+msgid "Maintenance Equipment"
+msgstr "Обладнання"
+
+#. module: maintenance_timesheet
+msgid "Maintenance Request"
+msgstr "Заявка на технічне обслуговування"
+
+#. module: maintenance_timesheet
+msgid "Planned Hours"
+msgstr "Заплановані години"
+
+#. module: maintenance_timesheet
+msgid "Progress"
+msgstr "Прогрес"
+
+#. module: maintenance_timesheet
+msgid "Project -"
+msgstr "Проєкт -"
+
+#. module: maintenance_timesheet
+msgid "Remaining Hours"
+msgstr "Залишок годин"
+
+#. module: maintenance_timesheet
+msgid "Request"
+msgstr "Запит"
+
+#. module: maintenance_timesheet
+msgid "Responsible"
+msgstr "Відповідальний"
+
+#. module: maintenance_timesheet
+msgid "Task"
+msgstr "Завдання"
+
+#. module: maintenance_timesheet
+msgid "Time"
+msgstr "Час"
+
+#. module: maintenance_timesheet
+msgid "Timesheet Total Hours"
+msgstr "Загальна кількість годин обліку часу"
+
+#. module: maintenance_timesheet
+msgid "Timesheets"
+msgstr "Облік часу"
+
+#. module: maintenance_timesheet
+msgid "Timesheets Analysis Report"
+msgstr "Звіт аналізу обліку часу"
+
