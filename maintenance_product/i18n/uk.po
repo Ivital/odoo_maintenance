@@ -30,3 +30,8 @@ msgstr "Може бути обслуговуванням"
 #: model:ir.model.fields,field_description:maintenance_product.field_maintenance_equipment_category__product_category_id
 msgid "Product Category"
 msgstr "Категорія товару"
+
+#. module: maintenance_product
+#: model:ir.model.fields,field_description:maintenance_product.field_product_category__equipment_category_ids
+msgid "Equipment Categories"
+msgstr "Категорії обладнання"

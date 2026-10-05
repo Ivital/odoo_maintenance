@@ -95,3 +95,8 @@ msgstr "Останнє оновлення"
 #: model_terms:ir.ui.view,arch_db:maintenance_equipment_status.maintenance_equipment_status_view_form
 msgid "e.g. Operational"
 msgstr "напр. Робочий"
+
+#. module: maintenance_equipment_status
+#: model_terms:ir.actions.act_window,help:maintenance_equipment_status.maintenance_equipment_status_action
+msgid "Click to set a new status for your equipments."
+msgstr "Натисніть, щоб встановити новий статус обладнання."

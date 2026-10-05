@@ -47,3 +47,13 @@ msgstr "Повна назва"
 #: model_terms:ir.ui.view,arch_db:maintenance_equipment_hierarchy.hr_equipment_view_search
 msgid "Has Children"
 msgstr "Має дочірні елементи"
+
+#. module: maintenance_equipment_hierarchy
+#: model:ir.model.fields,field_description:maintenance_equipment_hierarchy.field_maintenance_equipment__child_count
+msgid "Number of child equipments"
+msgstr "Кількість дочірнього обладнання"
+
+#. module: maintenance_equipment_hierarchy
+#: model:ir.model.fields,field_description:maintenance_equipment_hierarchy.field_maintenance_equipment__parent_id
+msgid "Parent Equipment"
+msgstr "Батьківське обладнання"

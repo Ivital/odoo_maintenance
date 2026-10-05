@@ -22,3 +22,8 @@ msgstr "Код"
 #: model:ir.model.fields,field_description:maintenance_request_sequence.field_maintenance_team__sequence_id
 msgid "Team Sequence"
 msgstr "Послідовність команди"
+
+#. module: maintenance_request_sequence
+#: model:ir.model.fields,field_description:maintenance_request_sequence.field_maintenance_team__code_prefix
+msgid "Prefix for Team Reference"
+msgstr "Префікс для посилання команди"

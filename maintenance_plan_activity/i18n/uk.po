@@ -53,3 +53,18 @@ msgstr "Останнє оновлення"
 #: model:ir.model.fields,field_description:maintenance_plan_activity.field_maintenance_planned_activity__maintenance_plan_id
 msgid "Maintenance Plan"
 msgstr "План технічного обслуговування"
+
+#. module: maintenance_plan_activity
+#: model:ir.model.fields,field_description:maintenance_plan_activity.field_maintenance_planned_activity__date_before_request
+msgid "# Days before request"
+msgstr "Кількість днів до запиту"
+
+#. module: maintenance_plan_activity
+#: model:ir.model.fields,field_description:maintenance_plan_activity.field_maintenance_plan__planned_activity_ids
+msgid "Planned Activities"
+msgstr "Заплановані активності"
+
+#. module: maintenance_plan_activity
+#: model_terms:ir.ui.view,arch_db:maintenance_plan_activity.maintenance_plan_view_form
+msgid "Scheduled Activities"
+msgstr "Заплановані активності"

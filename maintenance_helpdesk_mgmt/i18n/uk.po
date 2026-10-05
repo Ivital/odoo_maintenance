@@ -44,3 +44,13 @@ msgstr "Кількість запитів на технічне обслугов
 #: model_terms:ir.ui.view,arch_db:maintenance_helpdesk_mgmt.view_helpdesk_ticket_kanban
 msgid "Maintenance Requests"
 msgstr "Запити на технічне обслуговування"
+
+#. module: maintenance_helpdesk_mgmt
+#: model_terms:ir.ui.view,arch_db:maintenance_helpdesk_mgmt.hr_equipment_request_view_search
+msgid "With helpdesk tickets"
+msgstr "Із заявками служби підтримки"
+
+#. module: maintenance_helpdesk_mgmt
+#: model_terms:ir.ui.view,arch_db:maintenance_helpdesk_mgmt.helpdesk_ticket_view_search
+msgid "With maintenance requests"
+msgstr "Із запитами на обслуговування"

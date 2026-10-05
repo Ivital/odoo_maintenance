@@ -17,3 +17,8 @@ msgstr ""
 #: model:ir.model.fields,field_description:maintenance_request_employee.field_maintenance_request__employee_ids
 msgid "Employees"
 msgstr "Працівники"
+
+#. module: maintenance_request_employee
+#: model_terms:ir.ui.view,arch_db:maintenance_request_employee.maintenance_request_view_search_inherit_hr
+msgid "Involved Maintenances"
+msgstr "Залучене обслуговування"

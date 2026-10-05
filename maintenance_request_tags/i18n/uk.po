@@ -69,3 +69,8 @@ msgstr "Запити на технічне обслуговування"
 #: model_terms:ir.ui.view,arch_db:maintenance_request_tags.hr_equipment_request_view_form
 msgid "e.g. Computers"
 msgstr "наприклад, Комп'ютери"
+
+#. module: maintenance_request_tags
+#: model:ir.model.constraint,message:maintenance_request_tags.constraint_maintenance_request_tag_name_uniq
+msgid "Tag name already exists !"
+msgstr "Тег із такою назвою вже існує!"

@@ -33,3 +33,8 @@ msgstr "Замовлення на закупівлю"
 #: model:ir.model.fields,field_description:maintenance_request_purchase.field_maintenance_request__purchases_count
 msgid "Purchases Count"
 msgstr "Кількість закупівель"
+
+#. module: maintenance_request_purchase
+#: model:ir.model.fields,field_description:maintenance_request_purchase.field_purchase_order__maintenance_requests_count
+msgid "Maintenance Requests Count"
+msgstr "Кількість запитів на обслуговування"

@@ -56,3 +56,29 @@ msgstr "Контрагент:"
 #: model_terms:ir.ui.view,arch_db:maintenance_partner.maintenance_request_search_view
 msgid "With Partner"
 msgstr "З контрагентом"
+
+#. module: maintenance_partner
+#: model_terms:ir.ui.view,arch_db:maintenance_partner.res_partner_form_view
+msgid "<span class=\"o_stat_text\">Equipments</span>"
+msgstr "<span class=\"o_stat_text\">Обладнання</span>"
+
+#. module: maintenance_partner
+#: model_terms:ir.ui.view,arch_db:maintenance_partner.res_partner_form_view
+msgid "<span class=\"o_stat_text\">Maintenances</span>"
+msgstr "<span class=\"o_stat_text\">Обслуговування</span>"
+
+#. module: maintenance_partner
+#: model:ir.actions.act_window,name:maintenance_partner.action_maintenance_equipment_from_partner
+#: model:ir.model,name:maintenance_partner.model_maintenance_equipment
+msgid "Maintenance Equipment"
+msgstr "Обладнання обслуговування"
+
+#. module: maintenance_partner
+#: model_terms:ir.ui.view,arch_db:maintenance_partner.maintenance_equipment_search_view
+msgid "With Assigned Partner"
+msgstr "Із призначеним контрагентом"
+
+#. module: maintenance_partner
+#: model_terms:ir.ui.view,arch_db:maintenance_partner.maintenance_equipment_search_view
+msgid "Without Assigned Partner"
+msgstr "Без призначеного контрагента"

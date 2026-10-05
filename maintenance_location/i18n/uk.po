@@ -158,3 +158,12 @@ msgstr "Батьківське місце"
 #: model_terms:ir.ui.view,arch_db:maintenance_location.maintenance_location_form_view
 msgid "e.g. Building A"
 msgstr "напр. Будівля A"
+
+#. module: maintenance_location
+#: model_terms:ir.ui.view,arch_db:maintenance_location.maintenance_location_form_view
+msgid ""
+"<br/>\n"
+"                                Longitude:"
+msgstr ""
+"<br/>\n"
+"                                Довгота:"
