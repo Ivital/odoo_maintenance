@@ -32,3 +32,18 @@ msgstr "Батьківський шлях"
 #: model:ir.model.fields,field_description:maintenance_equipment_hierarchy.field_maintenance_equipment__parent_right
 msgid "Right Parent"
 msgstr "Правий батьківський"
+
+#. module: maintenance_equipment_hierarchy
+#: model:ir.model.fields,field_description:maintenance_equipment_hierarchy.field_maintenance_equipment__child_ids
+msgid "Child Equipments"
+msgstr "Дочірнє обладнання"
+
+#. module: maintenance_equipment_hierarchy
+#: model:ir.model.fields,field_description:maintenance_equipment_hierarchy.field_maintenance_equipment__complete_name
+msgid "Complete Name"
+msgstr "Повна назва"
+
+#. module: maintenance_equipment_hierarchy
+#: model_terms:ir.ui.view,arch_db:maintenance_equipment_hierarchy.hr_equipment_view_search
+msgid "Has Children"
+msgstr "Має дочірні елементи"

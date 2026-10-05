@@ -74,3 +74,24 @@ msgstr "Послідовність"
 #: model:ir.model.fields,field_description:maintenance_equipment_status.field_maintenance_equipment__status_id
 msgid "Status"
 msgstr "Статус"
+
+#. module: maintenance_equipment_status
+#: model_terms:ir.ui.view,arch_db:maintenance_equipment_status.maintenance_equipment_status_view_form
+#: model_terms:ir.ui.view,arch_db:maintenance_equipment_status.maintenance_equipment_status_view_search
+msgid "Equipment Status"
+msgstr "Статус обладнання"
+
+#. module: maintenance_equipment_status
+#: model:ir.model.fields,field_description:maintenance_equipment_status.field_maintenance_equipment_status__write_uid
+msgid "Last Updated by"
+msgstr "Останнє оновлення ким"
+
+#. module: maintenance_equipment_status
+#: model:ir.model.fields,field_description:maintenance_equipment_status.field_maintenance_equipment_status__write_date
+msgid "Last Updated on"
+msgstr "Останнє оновлення"
+
+#. module: maintenance_equipment_status
+#: model_terms:ir.ui.view,arch_db:maintenance_equipment_status.maintenance_equipment_status_view_form
+msgid "e.g. Operational"
+msgstr "напр. Робочий"

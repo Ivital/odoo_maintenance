@@ -17,3 +17,30 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:maintenance_helpdesk_mgmt.view_helpdesk_ticket_form_inherit
 msgid "Maintenance"
 msgstr "Технічне обслуговування"
+
+#. module: maintenance_helpdesk_mgmt
+#: model:ir.model.fields,field_description:maintenance_helpdesk_mgmt.field_maintenance_request__helpdesk_ticket_count
+msgid "Helpdesk Ticket Count"
+msgstr "Кількість заявок служби підтримки"
+
+#. module: maintenance_helpdesk_mgmt
+#: model:ir.model.fields,field_description:maintenance_helpdesk_mgmt.field_maintenance_request__helpdesk_ticket_ids
+#: model_terms:ir.ui.view,arch_db:maintenance_helpdesk_mgmt.hr_equipment_request_view_form_button_box
+msgid "Helpdesk Tickets"
+msgstr "Заявки служби підтримки"
+
+#. module: maintenance_helpdesk_mgmt
+#: model_terms:ir.ui.view,arch_db:maintenance_helpdesk_mgmt.hr_equipment_request_view_kanban
+msgid "Helpdesk tickets"
+msgstr "Тікети служби підтримки"
+
+#. module: maintenance_helpdesk_mgmt
+#: model:ir.model.fields,field_description:maintenance_helpdesk_mgmt.field_helpdesk_ticket__maintenance_request_count
+msgid "Maintenance Request Count"
+msgstr "Кількість запитів на технічне обслуговування"
+
+#. module: maintenance_helpdesk_mgmt
+#: model:ir.model.fields,field_description:maintenance_helpdesk_mgmt.field_helpdesk_ticket__maintenance_request_ids
+#: model_terms:ir.ui.view,arch_db:maintenance_helpdesk_mgmt.view_helpdesk_ticket_kanban
+msgid "Maintenance Requests"
+msgstr "Запити на технічне обслуговування"

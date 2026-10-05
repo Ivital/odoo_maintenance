@@ -44,3 +44,28 @@ msgstr "Теги запитів"
 #: model:ir.model.fields,field_description:maintenance_request_tags.field_maintenance_request__tag_ids
 msgid "Tags"
 msgstr "Теги"
+
+#. module: maintenance_request_tags
+#: model:ir.model.fields,field_description:maintenance_request_tags.field_maintenance_request_tag__color
+msgid "Color Index (0-15)"
+msgstr "Індекс кольору (0–15)"
+
+#. module: maintenance_request_tags
+#: model:ir.model.fields,field_description:maintenance_request_tags.field_maintenance_request_tag__write_uid
+msgid "Last Updated by"
+msgstr "Останнє оновлення ким"
+
+#. module: maintenance_request_tags
+#: model:ir.model.fields,field_description:maintenance_request_tags.field_maintenance_request_tag__write_date
+msgid "Last Updated on"
+msgstr "Останнє оновлення"
+
+#. module: maintenance_request_tags
+#: model:ir.model.fields,field_description:maintenance_request_tags.field_maintenance_request_tag__request_ids
+msgid "Maintenance Requests"
+msgstr "Запити на технічне обслуговування"
+
+#. module: maintenance_request_tags
+#: model_terms:ir.ui.view,arch_db:maintenance_request_tags.hr_equipment_request_view_form
+msgid "e.g. Computers"
+msgstr "наприклад, Комп'ютери"

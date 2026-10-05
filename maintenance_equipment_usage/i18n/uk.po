@@ -159,3 +159,160 @@ msgstr "Використання"
 #: model:ir.model.fields,field_description:maintenance_equipment_usage.field_maintenance_equipment_usage__user_id
 msgid "User"
 msgstr "Користувач"
+
+#. module: maintenance_equipment_usage
+#: model:ir.model.fields,field_description:maintenance_equipment_usage.field_maintenance_equipment_usage__message_needaction
+msgid "Action Needed"
+msgstr "Потрібна дія"
+
+#. module: maintenance_equipment_usage
+#: model:ir.model.fields,field_description:maintenance_equipment_usage.field_maintenance_equipment_usage__activity_exception_decoration
+msgid "Activity Exception Decoration"
+msgstr "Оформлення винятку дії"
+
+#. module: maintenance_equipment_usage
+#: model:ir.model.fields,field_description:maintenance_equipment_usage.field_maintenance_equipment_usage__activity_state
+msgid "Activity State"
+msgstr "Стан дії"
+
+#. module: maintenance_equipment_usage
+#: model:ir.model.fields,field_description:maintenance_equipment_usage.field_maintenance_equipment_usage__activity_type_icon
+msgid "Activity Type Icon"
+msgstr "Піктограма типу дії"
+
+#. module: maintenance_equipment_usage
+#: model:ir.model.fields,field_description:maintenance_equipment_usage.field_maintenance_equipment_usage__message_attachment_count
+msgid "Attachment Count"
+msgstr "Кількість вкладень"
+
+#. module: maintenance_equipment_usage
+#: model_terms:ir.ui.view,arch_db:maintenance_equipment_usage.maintenance_equipment_usage_form
+msgid "Cancel"
+msgstr "Скасувати"
+
+#. module: maintenance_equipment_usage
+#: model_terms:ir.actions.act_window,help:maintenance_equipment_usage.maintenance_equipment_usage_action
+#: model_terms:ir.actions.act_window,help:maintenance_equipment_usage.maintenance_equipment_usage_action_from_equipment
+msgid "Click to create an Equipment Usage."
+msgstr "Натисніть, щоб створити використання обладнання."
+
+#. module: maintenance_equipment_usage
+#: model:ir.actions.act_window,name:maintenance_equipment_usage.maintenance_equipment_usage_action
+#: model:ir.actions.act_window,name:maintenance_equipment_usage.maintenance_equipment_usage_action_from_equipment
+#: model:ir.model.fields,field_description:maintenance_equipment_usage.field_maintenance_equipment_usage__name
+msgid "Equipment Usage"
+msgstr "Використання обладнання"
+
+#. module: maintenance_equipment_usage
+#: model:ir.model.fields,field_description:maintenance_equipment_usage.field_maintenance_equipment_usage__message_partner_ids
+msgid "Followers (Partners)"
+msgstr "Підписники (контрагенти)"
+
+#. module: maintenance_equipment_usage
+#: model_terms:ir.ui.view,arch_db:maintenance_equipment_usage.maintenance_equipment_usage_search
+msgid "Group By..."
+msgstr "Групувати за..."
+
+#. module: maintenance_equipment_usage
+#: model_terms:ir.ui.view,arch_db:maintenance_equipment_usage.hr_equipment_view_form
+#: model_terms:ir.ui.view,arch_db:maintenance_equipment_usage.hr_equipment_view_kanban
+msgid "In use"
+msgstr "Використовується"
+
+#. module: maintenance_equipment_usage
+#: model:ir.model.fields,field_description:maintenance_equipment_usage.field_maintenance_equipment_usage__write_uid
+msgid "Last Updated by"
+msgstr "Останнє оновлення ким"
+
+#. module: maintenance_equipment_usage
+#: model:ir.model.fields,field_description:maintenance_equipment_usage.field_maintenance_equipment_usage__write_date
+msgid "Last Updated on"
+msgstr "Останнє оновлення"
+
+#. module: maintenance_equipment_usage
+#: model:ir.model.fields,field_description:maintenance_equipment_usage.field_maintenance_equipment_usage__message_has_error
+msgid "Message Delivery error"
+msgstr "Помилка доставки повідомлення"
+
+#. module: maintenance_equipment_usage
+#: model:ir.model.fields,field_description:maintenance_equipment_usage.field_maintenance_equipment_usage__my_activity_date_deadline
+msgid "My Activity Deadline"
+msgstr "Кінцевий термін моєї дії"
+
+#. module: maintenance_equipment_usage
+#. odoo-python
+#: code:addons/maintenance_equipment_usage/models/maintenance_equipment_usage.py:0
+#: model:ir.model.fields.selection,name:maintenance_equipment_usage.selection__maintenance_equipment_usage__state__draft
+msgid "New"
+msgstr "Новий"
+
+#. module: maintenance_equipment_usage
+#: model:ir.model.fields,field_description:maintenance_equipment_usage.field_maintenance_equipment_usage__activity_date_deadline
+msgid "Next Activity Deadline"
+msgstr "Кінцевий термін наступної дії"
+
+#. module: maintenance_equipment_usage
+#: model:ir.model.fields,field_description:maintenance_equipment_usage.field_maintenance_equipment_usage__activity_summary
+msgid "Next Activity Summary"
+msgstr "Підсумок наступної дії"
+
+#. module: maintenance_equipment_usage
+#: model:ir.model.fields,field_description:maintenance_equipment_usage.field_maintenance_equipment_usage__activity_type_id
+msgid "Next Activity Type"
+msgstr "Тип наступної дії"
+
+#. module: maintenance_equipment_usage
+#: model_terms:ir.ui.view,arch_db:maintenance_equipment_usage.maintenance_equipment_usage_search
+msgid "Not Returned"
+msgstr "Не повернено"
+
+#. module: maintenance_equipment_usage
+#: model:ir.model.fields,field_description:maintenance_equipment_usage.field_maintenance_equipment_usage__message_needaction_counter
+msgid "Number of Actions"
+msgstr "Кількість дій"
+
+#. module: maintenance_equipment_usage
+#: model:ir.model.fields,field_description:maintenance_equipment_usage.field_maintenance_equipment_usage__message_has_error_counter
+msgid "Number of errors"
+msgstr "Кількість помилок"
+
+#. module: maintenance_equipment_usage
+#: model_terms:ir.ui.view,arch_db:maintenance_equipment_usage.maintenance_equipment_usage_search
+msgid "Picking Date by Month"
+msgstr "Дата комплектування за місяцем"
+
+#. module: maintenance_equipment_usage
+#: model_terms:ir.ui.view,arch_db:maintenance_equipment_usage.maintenance_equipment_usage_search
+msgid "Picking Month"
+msgstr "Місяць комплектування"
+
+#. module: maintenance_equipment_usage
+#: model:ir.model.fields.selection,name:maintenance_equipment_usage.selection__maintenance_equipment_usage__state__reserved
+msgid "Reserved"
+msgstr "Зарезервовано"
+
+#. module: maintenance_equipment_usage
+#: model:ir.model.fields,field_description:maintenance_equipment_usage.field_maintenance_equipment_usage__activity_user_id
+msgid "Responsible User"
+msgstr "Відповідальний користувач"
+
+#. module: maintenance_equipment_usage
+#: model_terms:ir.ui.view,arch_db:maintenance_equipment_usage.maintenance_equipment_usage_form
+msgid "Return"
+msgstr "Повернути"
+
+#. module: maintenance_equipment_usage
+#: model:ir.model.fields.selection,name:maintenance_equipment_usage.selection__maintenance_equipment_usage__state__returned
+#: model_terms:ir.ui.view,arch_db:maintenance_equipment_usage.maintenance_equipment_usage_search
+msgid "Returned"
+msgstr "Повернено"
+
+#. module: maintenance_equipment_usage
+#: model_terms:ir.ui.view,arch_db:maintenance_equipment_usage.maintenance_equipment_usage_search
+msgid "To Pick"
+msgstr "До комплектування"
+
+#. module: maintenance_equipment_usage
+#: model:ir.model.fields,field_description:maintenance_equipment_usage.field_maintenance_equipment_usage__website_message_ids
+msgid "Website Messages"
+msgstr "Повідомлення вебсайту"

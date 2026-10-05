@@ -17,3 +17,19 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:maintenance_request_purchase.purchase_order_form
 msgid "Maintenance"
 msgstr "Технічне обслуговування"
+
+#. module: maintenance_request_purchase
+#: model:ir.model.fields,field_description:maintenance_request_purchase.field_purchase_order__maintenance_request_ids
+msgid "Maintenance Requests"
+msgstr "Запити на технічне обслуговування"
+
+#. module: maintenance_request_purchase
+#: model:ir.model.fields,field_description:maintenance_request_purchase.field_maintenance_request__purchase_order_ids
+#: model_terms:ir.ui.view,arch_db:maintenance_request_purchase.hr_equipment_request_view_form_button_box
+msgid "Purchase Orders"
+msgstr "Замовлення на закупівлю"
+
+#. module: maintenance_request_purchase
+#: model:ir.model.fields,field_description:maintenance_request_purchase.field_maintenance_request__purchases_count
+msgid "Purchases Count"
+msgstr "Кількість закупівель"

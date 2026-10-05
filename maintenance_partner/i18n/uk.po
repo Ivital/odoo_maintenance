@@ -22,3 +22,37 @@ msgstr "Обладнання"
 #: model:ir.model.fields,field_description:maintenance_partner.field_maintenance_request__partner_id
 msgid "Partner"
 msgstr "Партнер"
+
+#. module: maintenance_partner
+#: model:ir.model.fields,field_description:maintenance_partner.field_maintenance_equipment__assigned_partner_id
+msgid "Assigned Partner"
+msgstr "Призначений контрагент"
+
+#. module: maintenance_partner
+#: model:ir.model.fields,field_description:maintenance_partner.field_res_partner__equipment_count
+msgid "Equipment Count"
+msgstr "Кількість обладнання"
+
+#. module: maintenance_partner
+#: model:ir.actions.act_window,name:maintenance_partner.action_maintenance_request_from_partner
+#: model:ir.model,name:maintenance_partner.model_maintenance_request
+#: model:ir.model.fields,field_description:maintenance_partner.field_res_partner__maintenance_request_ids
+#: model:ir.model.fields,field_description:maintenance_partner.field_res_users__maintenance_request_ids
+msgid "Maintenance Request"
+msgstr "Запит на технічне обслуговування"
+
+#. module: maintenance_partner
+#: model:ir.model.fields,field_description:maintenance_partner.field_res_partner__maintenance_request_count
+#: model:ir.model.fields,field_description:maintenance_partner.field_res_users__maintenance_request_count
+msgid "Maintenance Request Count"
+msgstr "Кількість запитів на технічне обслуговування"
+
+#. module: maintenance_partner
+#: model_terms:ir.ui.view,arch_db:maintenance_partner.maintenance_request_kanban_view
+msgid "Partner:"
+msgstr "Контрагент:"
+
+#. module: maintenance_partner
+#: model_terms:ir.ui.view,arch_db:maintenance_partner.maintenance_request_search_view
+msgid "With Partner"
+msgstr "З контрагентом"

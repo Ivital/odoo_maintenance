@@ -27,3 +27,20 @@ msgstr "Переміщення"
 #: model:ir.model.fields,field_description:maintenance_account.field_maintenance_equipment__move_line_id
 msgid "Move line"
 msgstr "Рядок переміщення"
+
+#. module: maintenance_account
+#: model:ir.model.fields,field_description:maintenance_account.field_account_move_line__equipment_category_id
+msgid "Equipment Category"
+msgstr "Категорія обладнання"
+
+#. module: maintenance_account
+#: model:ir.model.fields,field_description:maintenance_account.field_account_bank_statement_line__equipment_count
+#: model:ir.model.fields,field_description:maintenance_account.field_account_move__equipment_count
+#: model:ir.model.fields,field_description:maintenance_account.field_account_move_line__equipment_count
+msgid "Equipment Count"
+msgstr "Кількість обладнання"
+
+#. module: maintenance_account
+#: model_terms:ir.ui.view,arch_db:maintenance_account.view_move_form
+msgid "Equipment(s)"
+msgstr "Обладнання"

@@ -32,3 +32,24 @@ msgstr "Відображувана назва"
 #: model:ir.model.fields,field_description:maintenance_plan_activity.field_maintenance_planned_activity__user_id
 msgid "Responsible"
 msgstr "Відповідальний"
+
+#. module: maintenance_plan_activity
+#: model:ir.model.fields,field_description:maintenance_plan_activity.field_maintenance_planned_activity__activity_type_id
+msgid "Activity Type"
+msgstr "Тип дії"
+
+#. module: maintenance_plan_activity
+#: model:ir.model.fields,field_description:maintenance_plan_activity.field_maintenance_planned_activity__write_uid
+msgid "Last Updated by"
+msgstr "Останнє оновлення ким"
+
+#. module: maintenance_plan_activity
+#: model:ir.model.fields,field_description:maintenance_plan_activity.field_maintenance_planned_activity__write_date
+msgid "Last Updated on"
+msgstr "Останнє оновлення"
+
+#. module: maintenance_plan_activity
+#: model:ir.model,name:maintenance_plan_activity.model_maintenance_plan
+#: model:ir.model.fields,field_description:maintenance_plan_activity.field_maintenance_planned_activity__maintenance_plan_id
+msgid "Maintenance Plan"
+msgstr "План технічного обслуговування"

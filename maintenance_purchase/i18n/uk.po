@@ -22,3 +22,30 @@ msgstr "Обладнання"
 #: model:ir.model.fields,field_description:maintenance_purchase.field_maintenance_equipment__purchase_id
 msgid "Purchase"
 msgstr "Закупівля"
+
+#. module: maintenance_purchase
+#: model:ir.model.fields,field_description:maintenance_purchase.field_purchase_order_line__equipment_category_id
+msgid "Equipment Category"
+msgstr "Категорія обладнання"
+
+#. module: maintenance_purchase
+#: model:ir.model.fields,field_description:maintenance_purchase.field_purchase_order__equipment_count
+#: model:ir.model.fields,field_description:maintenance_purchase.field_purchase_order_line__equipment_count
+msgid "Equipment Count"
+msgstr "Кількість обладнання"
+
+#. module: maintenance_purchase
+#: model_terms:ir.ui.view,arch_db:maintenance_purchase.purchase_order_form_view
+msgid "Equipment(s)"
+msgstr "Обладнання"
+
+#. module: maintenance_purchase
+#: model:ir.model.fields,field_description:maintenance_purchase.field_product_product__purchase_equipment_category_id
+#: model:ir.model.fields,field_description:maintenance_purchase.field_product_template__purchase_equipment_category_id
+msgid "Purchase Equipment Category"
+msgstr "Категорія обладнання закупівлі"
+
+#. module: maintenance_purchase
+#: model:ir.model.fields,field_description:maintenance_purchase.field_maintenance_equipment__purchase_line_id
+msgid "Purchase Line"
+msgstr "Рядок закупівлі"

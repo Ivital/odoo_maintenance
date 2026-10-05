@@ -17,3 +17,13 @@ msgstr ""
 #: model:ir.model.fields,field_description:maintenance_equipment_sequence.field_maintenance_equipment_category__sequence_number_next
 msgid "Next Number"
 msgstr "Наступний номер"
+
+#. module: maintenance_equipment_sequence
+#: model:ir.model.fields,field_description:maintenance_equipment_sequence.field_maintenance_equipment_category__sequence_id
+msgid "Entry Sequence"
+msgstr "Послідовність проведень"
+
+#. module: maintenance_equipment_sequence
+#: model:ir.model.fields,field_description:maintenance_equipment_sequence.field_maintenance_equipment_category__sequence_prefix
+msgid "Sequence Prefix"
+msgstr "Префікс послідовності"

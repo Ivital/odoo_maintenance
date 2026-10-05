@@ -17,3 +17,18 @@ msgstr ""
 #: model:ir.model.fields,field_description:maintenance_equipment_category_hierarchy.field_maintenance_equipment_category__parent_path
 msgid "Parent Path"
 msgstr "Батьківський шлях"
+
+#. module: maintenance_equipment_category_hierarchy
+#: model:ir.model.fields,field_description:maintenance_equipment_category_hierarchy.field_maintenance_equipment_category__child_id
+msgid "Child Categories"
+msgstr "Дочірні категорії"
+
+#. module: maintenance_equipment_category_hierarchy
+#: model:ir.model.fields,field_description:maintenance_equipment_category_hierarchy.field_maintenance_equipment_category__complete_name
+msgid "Complete Name"
+msgstr "Повна назва"
+
+#. module: maintenance_equipment_category_hierarchy
+#: model:ir.model.fields,field_description:maintenance_equipment_category_hierarchy.field_maintenance_equipment_category__parent_id
+msgid "Parent Category"
+msgstr "Батьківська категорія"

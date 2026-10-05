@@ -17,3 +17,16 @@ msgstr ""
 #: model:ir.model.fields,field_description:maintenance_product.field_product_product__equipment_ids
 msgid "Equipments"
 msgstr "Обладнання"
+
+#. module: maintenance_product
+#: model:ir.model.fields,field_description:maintenance_product.field_product_product__maintenance_ok
+#: model:ir.model.fields,field_description:maintenance_product.field_product_template__maintenance_ok
+msgid "Can be Maintenance"
+msgstr "Може бути обслуговуванням"
+
+#. module: maintenance_product
+#: model:ir.model,name:maintenance_product.model_product_category
+#: model:ir.model.fields,field_description:maintenance_product.field_maintenance_equipment__product_category_id
+#: model:ir.model.fields,field_description:maintenance_product.field_maintenance_equipment_category__product_category_id
+msgid "Product Category"
+msgstr "Категорія товару"
