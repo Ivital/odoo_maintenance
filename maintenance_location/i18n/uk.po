@@ -167,3 +167,9 @@ msgid ""
 msgstr ""
 "<br/>\n"
 "                                Довгота:"
+
+#. module: maintenance_location
+#. odoo-python
+#: code:addons/maintenance_location/models/maintenance_location.py:0
+msgid "Error ! You cannot create recursive Locations."
+msgstr "Помилка! Не можна створювати рекурсивні місця."

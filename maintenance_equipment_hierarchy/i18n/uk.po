@@ -57,3 +57,9 @@ msgstr "Кількість дочірнього обладнання"
 #: model:ir.model.fields,field_description:maintenance_equipment_hierarchy.field_maintenance_equipment__parent_id
 msgid "Parent Equipment"
 msgstr "Батьківське обладнання"
+
+#. module: maintenance_equipment_hierarchy
+#. odoo-python
+#: code:addons/maintenance_equipment_hierarchy/models/maintenance_equipment.py:0
+msgid "Child equipment of %s"
+msgstr "Дочірнє обладнання для %s"

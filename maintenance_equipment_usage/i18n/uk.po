@@ -374,3 +374,9 @@ msgstr "Історія комунікації через вебсайт"
 #: model:ir.model,name:maintenance_equipment_usage.model_maintenance_equipment_usage
 msgid "Maintenance Equipment Usage"
 msgstr "Використання обладнання технічного обслуговування"
+
+#. module: maintenance_equipment_usage
+#. odoo-python
+#: code:addons/maintenance_equipment_usage/models/maintenance_equipment_usage.py:0
+msgid "Every equipment can only be picked once at the same time!"
+msgstr "Кожне обладнання можна вибрати лише один раз одночасно!"

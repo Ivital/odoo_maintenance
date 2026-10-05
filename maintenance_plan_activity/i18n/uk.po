@@ -82,3 +82,9 @@ msgid ""
 msgstr ""
 "Кількість днів, на яку строк виконання дії буде встановлено раніше за "
 "заплановану дату заявки на техобслуговування"
+
+#. module: maintenance_plan_activity
+#. odoo-python
+#: code:addons/maintenance_plan_activity/models/maintenance_equipment.py:0
+msgid "Activity automatically generated from maintenance plan"
+msgstr "Активність автоматично створено з плану обслуговування"

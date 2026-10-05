@@ -32,3 +32,9 @@ msgstr "Повна назва"
 #: model:ir.model.fields,field_description:maintenance_equipment_category_hierarchy.field_maintenance_equipment_category__parent_id
 msgid "Parent Category"
 msgstr "Батьківська категорія"
+
+#. module: maintenance_equipment_category_hierarchy
+#. odoo-python
+#: code:addons/maintenance_equipment_category_hierarchy/models/maintenance_equipment_category.py:0
+msgid "Error ! You cannot create recursive categories."
+msgstr "Помилка! Не можна створювати рекурсивні категорії."
