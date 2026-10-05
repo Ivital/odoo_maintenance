@@ -68,3 +68,17 @@ msgstr "Заплановані активності"
 #: model_terms:ir.ui.view,arch_db:maintenance_plan_activity.maintenance_plan_view_form
 msgid "Scheduled Activities"
 msgstr "Заплановані активності"
+
+#. module: maintenance_plan_activity
+#: model:ir.model,name:maintenance_plan_activity.model_maintenance_planned_activity
+msgid "Maintenance Planned Activity"
+msgstr "Запланована дія технічного обслуговування"
+
+#. module: maintenance_plan_activity
+#: model:ir.model.fields,help:maintenance_plan_activity.field_maintenance_planned_activity__date_before_request
+msgid ""
+"This is the number of days the due date of the activity will beset before "
+"the Maintenance request scheduled date"
+msgstr ""
+"Кількість днів, на яку строк виконання дії буде встановлено раніше за "
+"заплановану дату заявки на техобслуговування"

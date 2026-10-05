@@ -22,3 +22,8 @@ msgstr "Технічне обслуговування"
 #: model:res.groups,name:base_maintenance_group.group_maintenance_user
 msgid "User"
 msgstr "Користувач"
+
+#. module: base_maintenance_group
+#: model:res.groups,name:base_maintenance_group.group_maintenance_manager
+msgid "Full Access"
+msgstr "Повний доступ"

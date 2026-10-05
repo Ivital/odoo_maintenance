@@ -27,3 +27,24 @@ msgstr "Послідовність проведень"
 #: model:ir.model.fields,field_description:maintenance_equipment_sequence.field_maintenance_equipment_category__sequence_prefix
 msgid "Sequence Prefix"
 msgstr "Префікс послідовності"
+
+#. module: maintenance_equipment_sequence
+#: model:ir.model.fields,help:maintenance_equipment_sequence.field_maintenance_equipment_category__sequence_prefix
+msgid "The equipment's sequence will be created using this prefix."
+msgstr ""
+"Послідовність обладнання буде створено з використанням цього префікса."
+
+#. module: maintenance_equipment_sequence
+#: model:ir.model.fields,help:maintenance_equipment_sequence.field_maintenance_equipment_category__sequence_number_next
+msgid "The next sequence number will be used for the next equipment."
+msgstr ""
+"Наступний номер послідовності буде використано для наступного обладнання."
+
+#. module: maintenance_equipment_sequence
+#: model:ir.model.fields,help:maintenance_equipment_sequence.field_maintenance_equipment_category__sequence_id
+msgid ""
+"This field contains the information related to the numbering of the "
+"equipments belonging to this category."
+msgstr ""
+"Це поле містить інформацію про нумерацію обладнання, що належить до цієї "
+"категорії."

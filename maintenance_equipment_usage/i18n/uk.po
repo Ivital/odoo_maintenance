@@ -369,3 +369,8 @@ msgstr "Тип дії-винятку для запису."
 #: model:ir.model.fields,help:maintenance_equipment_usage.field_maintenance_equipment_usage__website_message_ids
 msgid "Website communication history"
 msgstr "Історія комунікації через вебсайт"
+
+#. module: maintenance_equipment_usage
+#: model:ir.model,name:maintenance_equipment_usage.model_maintenance_equipment_usage
+msgid "Maintenance Equipment Usage"
+msgstr "Використання обладнання технічного обслуговування"

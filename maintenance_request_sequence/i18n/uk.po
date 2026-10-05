@@ -27,3 +27,12 @@ msgstr "Послідовність команди"
 #: model:ir.model.fields,field_description:maintenance_request_sequence.field_maintenance_team__code_prefix
 msgid "Prefix for Team Reference"
 msgstr "Префікс для посилання команди"
+
+#. module: maintenance_request_sequence
+#: model:ir.model.fields,help:maintenance_request_sequence.field_maintenance_team__code_prefix
+msgid ""
+"Prefix used to generate the internal reference for re created with this "
+"category. If blank the default sequence will be used."
+msgstr ""
+"Префікс для створення внутрішнього посилання записів, повторно створених із "
+"цією категорією. Якщо порожньо, використовується типова послідовність."

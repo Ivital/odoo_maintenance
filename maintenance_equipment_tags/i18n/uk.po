@@ -73,3 +73,8 @@ msgstr "наприклад, Комп'ютери"
 #: model:ir.model.constraint,message:maintenance_equipment_tags.constraint_maintenance_equipment_tag_name_uniq
 msgid "Tag name already exists !"
 msgstr "Тег із такою назвою вже існує!"
+
+#. module: maintenance_equipment_tags
+#: model:ir.model,name:maintenance_equipment_tags.model_maintenance_equipment_tag
+msgid "Maintenance Equipment Tag"
+msgstr "Тег обладнання технічного обслуговування"
