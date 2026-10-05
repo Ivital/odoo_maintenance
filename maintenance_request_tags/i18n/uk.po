@@ -9,6 +9,38 @@ msgstr ""
 "Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
 #. module: maintenance_request_tags
-#: model:ir.module.module,description:base.module_maintenance_request_tags model:ir.module.module,summary:base.module_maintenance_request_tags
+#: model:ir.module.module,description:base.module_maintenance_request_tags
+#: model:ir.module.module,summary:base.module_maintenance_request_tags
 msgid "Adds tags to Maintenance Requests"
 msgstr "Додає теги до запитів на технічне обслуговування"
+
+#. module: maintenance_request_tags
+#: model:ir.model.fields,field_description:maintenance_request_tags.field_maintenance_request_tag__create_uid
+msgid "Created by"
+msgstr "Створив"
+
+#. module: maintenance_request_tags
+#: model:ir.model.fields,field_description:maintenance_request_tags.field_maintenance_request_tag__create_date
+msgid "Created on"
+msgstr "Створено"
+
+#. module: maintenance_request_tags
+#: model:ir.model.fields,field_description:maintenance_request_tags.field_maintenance_request_tag__display_name
+msgid "Display Name"
+msgstr "Відображувана назва"
+
+#. module: maintenance_request_tags
+#: model:ir.model.fields,field_description:maintenance_request_tags.field_maintenance_request_tag__name
+msgid "Request Tag"
+msgstr "Тег запиту"
+
+#. module: maintenance_request_tags
+#: model:ir.actions.act_window,name:maintenance_request_tags.maintenance_request_tag_act_window
+#: model:ir.ui.menu,name:maintenance_request_tags.maintenance_request_tag_menu
+msgid "Request Tags"
+msgstr "Теги запитів"
+
+#. module: maintenance_request_tags
+#: model:ir.model.fields,field_description:maintenance_request_tags.field_maintenance_request__tag_ids
+msgid "Tags"
+msgstr "Теги"
